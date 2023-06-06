@@ -3,18 +3,18 @@
 This project focuses on using deep learning techniques to generate music with the help of artificial intelligence.
 
 ## Table of Contents
-
+- [Presentation](#presentation)
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Inference and Music Generation](#inference-and-music-generation)
 - [GUI Integration](#gui-integration)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
+
+## presentation
+PPTX [Presentation](https://github.com/Rich627/AI-music/blob/main/Project.pptx)
 
 ## Introduction
 
