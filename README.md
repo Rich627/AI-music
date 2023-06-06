@@ -51,10 +51,6 @@ A graphical user interface (GUI) is implemented using the `tkinter` library, all
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE). Feel free to use and modify the code according to the terms of the license.
-
 ## Acknowledgements
 
 You can add reference to the following paper if need to use it somewhere:
