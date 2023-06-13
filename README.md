@@ -14,7 +14,7 @@ This project focuses on using deep learning techniques to generate music with th
 - [Acknowledgements](#acknowledgements)
 
 ## presentation
-PPTX [Presentation](https://github.com/Rich627/AI-music/blob/main/Project.pptx)
+[PPTX Presentation](https://github.com/Rich627/AI-music/blob/main/Project.pptx)
 
 ## Introduction
 
