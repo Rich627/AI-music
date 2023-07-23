@@ -13,7 +13,8 @@ music_duration = 0
 def play_music():
     global is_playing
     if not is_playing:
-        pygame.mixer.music.load('/Users/rich/Desktop/AI-music-main/Generated_Music/generated_music_3.mid')
+        pygame.mixer.music.load('/Users/rich/Desktop/AI-music/Generated_Music/CVAEgenerated_music_0.mid')
+
         pygame.mixer.music.play()
         is_playing = True
 
